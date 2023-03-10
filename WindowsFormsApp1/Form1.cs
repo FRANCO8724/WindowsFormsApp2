@@ -184,7 +184,7 @@ namespace WindowsFormsApp1
             }
 
             listView1.Items.Add("Prezzo totale = " + a);
-
+             
         }
 
         public void Prezzmax(string[] arr1,string[] arr2)
